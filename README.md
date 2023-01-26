@@ -25,7 +25,7 @@ The analysis of the movie industry data revealed the following findings:
 - The most profitable genres in the movie industry are Action, Adventure, and Animation.
 - Animation is to volitile so stay away unless you are committed to it.
 - Depending on budget, Domestic markets reap greater rewards for lower budgets and foreign markets do better with higher budgets.
-- Make the movie range between 80-140 minutes of runtime.
+- Make the movie range between 95-120 minutes of runtime.
 
 - There are opportunities for Microsoft to enter the movie industry through partnerships with established studios and investing in the development of original content in the most profitable genres.
 Overall, the movie industry is a highly competitive and risky field, but with the right strategy and investments, Microsoft has the potential to be successful.

@@ -23,7 +23,7 @@ Visualizations were created to aid in the analysis:
 The analysis of the movie industry data revealed the following findings:
 
 - The most profitable genres in the movie industry are Action, Adventure, and Animation.
-- Animation is too volitile so stay away unless you are committed to it.
+- Animation is too volatile so stay away unless you are committed to it.
 - Depending on budget, Domestic markets reap greater rewards for lower budgets and foreign markets do better with higher budgets.
 - Make the movie range between 95-120 minutes of runtime.
 - Release the movie in any of these months: December, June, May, November, or July
